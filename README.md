@@ -132,4 +132,3 @@ Projeto desenvolvido como atividade acadêmica para demonstração de uso de est
 ---
 
 **Nota**: Certifique-se de que o arquivo `data.csv` está no diretório `C:\TEMP\` antes de executar o programa.
-```
